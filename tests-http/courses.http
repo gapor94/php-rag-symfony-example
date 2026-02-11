@@ -1,0 +1,3 @@
+### Search similar courses
+GET https://localhost/api/courses/similar?ids=cl3c
+Accept: application/json
